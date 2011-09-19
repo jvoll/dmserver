@@ -1,0 +1,5 @@
+TODO:
+1. Send back detailed error messages (ex. for device not found)
+2. Add some sort of simple database to store devices in.
+3. Separate code into multiple files? Maybe not quite yet?
+4. Comment the crap out of this stuff.
